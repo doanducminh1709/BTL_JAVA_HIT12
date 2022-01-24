@@ -1,0 +1,10 @@
+Vy Văn Hùng|21|Bắc Giang|0478098123|4243000|848.0|HungVyVan|Hungvy$123-Sat Jan 22 14:55:18 ICT 2022
+Phạm Văn Nhất|19|Bắc Giang|0987860654|3424000|684.0|MkLaNhat|MkLaNhat12#-Sat Jan 22 14:55:18 ICT 2022
+Đặng Duy Hưng|18|Thanh Hóa|0987543654|3340000|668.0|HungAi|HungAi12##-Sat Jan 22 14:55:18 ICT 2022
+Trần Đăng Khoa|17|Hưng Yên|0987887654|3233000|646.0|KhoaPug|KhoaPug1234@@-Sat Jan 22 14:55:18 ICT 2022
+Ngô Ngọc Sáng|21|Hà Nội|0897465123|3210000|642.0|SangNgoNgoc|SangNgoNgoc#@-Sat Jan 22 14:55:18 ICT 2022
+Lưu Viết Nghĩa|18|Bắc Giang|0986587654|2358940|471.0|NghiaCute|NghiaCute2##-Sat Jan 22 14:55:18 ICT 2022
+Ngô Sỹ Kiên|19|Hải Dương|0987547654|2314000|462.0|SiKien1234|SiKien1234##-Sat Jan 22 14:55:18 ICT 2022
+Nguyễn Thế Phương|18|Thanh hóa|0985387654|1552200|310.0|PhuongNguyen|PhuongThe123#@-Sat Jan 22 14:55:18 ICT 2022
+Nguyễn Đình Huân|21|Điện Biên|0539465123|1243500|249.0|Huannd0101|Huannd0101@-Sat Jan 22 14:55:18 ICT 2022
+Đinh Tấn Hưng|18|Yên Bái|0983887654|1230000|246.0|HungChicken|HungChicken1##-Sat Jan 22 14:55:18 ICT 2022

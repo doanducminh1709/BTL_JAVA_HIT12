@@ -1,0 +1,40 @@
+                                  LỊCH SỬ MUA HÀNG CỦA KHÁCH
+				 CUSTOMER INVOICE 
+   CUSTOMER NAME : Trần Đăng Khoa
+   AGE : 13
+   PHONE NUMBER : 0987887654
+   ADDRESS : Hưng Yên
+ID SERVICE           SERVICE NAME         COUNT OR TIME        SERVICE COST   
+DV1                  Gà Rán               2                    50000          
+DV3                  Cơm Rang             3                    60000          
+
+				Result Money : 110000VND
+				Time : Thu Jan 20 23:35:08 ICT 2022
+
+
+				 CUSTOMER INVOICE 
+   CUSTOMER NAME : Trần Đăng Khoa
+   AGE : 17
+   PHONE NUMBER : 0987887654
+   ADDRESS : Hưng Yên
+ID SERVICE           SERVICE NAME         COUNT OR TIME        SERVICE COST   
+DV1                  Gà Rán               3                    75000          
+DV4                  Mì Xào               3                    45000          
+
+				Result Money : 120000VND
+				Time : Fri Jan 21 10:05:28 ICT 2022
+
+
+				 CUSTOMER INVOICE 
+   CUSTOMER NAME : Trần Đăng Khoa
+   AGE : 17
+   PHONE NUMBER : 0987887654
+   ADDRESS : Hưng Yên
+ID SERVICE           SERVICE NAME         COUNT OR TIME        SERVICE COST   
+DV1                  Gà Rán               2                    50000          
+DV4                  Mì Xào               3                    45000          
+DV7                  NumberOne            3                    30000          
+
+				Result Money : 125000VND
+				Time : Sat Jan 22 14:55:18 ICT 2022
+

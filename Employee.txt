@@ -1,0 +1,5 @@
+NAME                 AGE        ADDRESS              PHONE                ID CORE         EDUCATION LEVEL      WANT TO DO
+Trịnh Văn Lộc        24         Thanh Hóa            0897645312           765893          Cử nhân đại học      Manager             
+Lê Huy Đạt           25         Hà Nội               0975545312           965893          Cử nhân đại học      Accountant
+Trịnh Văn Lộc        24         Thanh Hóa            0897645312           765893          Cử nhân đại học      Manager             
+Lê Huy Đạt           25         Hà Nội               0975545312           965893          Cử nhân đại học      Accountant          
